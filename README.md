@@ -4,7 +4,7 @@ Alexey Shalaev <a href="https://www.linkedin.com/in/aleksei-shalaev-701919286/" 
 Software Engineer
 -----------------
 
-* ✉️  You can contact me at [shalaevad.alexey@yandex.ru](mailto:shalaevad.alexey@yandex.ru)
+* ✉️  You can contact me at [shalaevad.alexey@gmail.com](mailto:shalaevad.alexey@gmail.com)
 * 🚀  I'm currently working on [CloudOps as a Service](http://coaas.ru)
 
 
